@@ -10,6 +10,6 @@ Step 4 : Features engineering
 Step 5 : Modelling and Machine learning   
 Step 6 : models evaluation and selection   
 Step 7 : model tunning   
-Step 8 : model Performance   
-        - hypothesis confirmation. 
+Step 8 : model Performance.    
+        - hypothesis confirmation.   
 Step 9 : Summary.    
