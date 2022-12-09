@@ -1,5 +1,5 @@
-# books_rating_project
-This repository is about books ratings.  A machine learning project. 
+# books_rating_project. 
+This repository is about books ratings.  A machine learning project.  
 Step 1 : Problem understanding 
         - hypothesis generation
 Step 2 : Data wrangling 
