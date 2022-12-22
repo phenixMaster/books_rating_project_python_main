@@ -3,8 +3,8 @@ Christophe : my proposal
 
 This repository is about books ratings.  A machine learning project.  
 Step 1 : Problem understanding   
-        - hypothesis generation. 
-Step 2 : Data wrangling   
+        - hypothesis generation.  
+Step 2 : Data wrangling    
 Step 3 : EDA   
        - data inspection   
        - data visualization. 
