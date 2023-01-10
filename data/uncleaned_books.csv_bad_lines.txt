@@ -1,0 +1,6 @@
+b'Skipping line 3350: expected 12 fields, saw 13
+Skipping line 4704: expected 12 fields, saw 13
+Skipping line 5879: expected 12 fields, saw 13
+Skipping line 8981: expected 12 fields, saw 13
+'
+
