@@ -14,5 +14,5 @@ Step 6 : models evaluation and selection
 Step 7 : model tuning   
 Step 8 : model Performance.    
         - hypothesis confirmation.   
-Step 9 : Summary. 
+Step 9 : Summary.  
 Step 10 : Discussion 
