@@ -5,9 +5,9 @@ name: Python application
 
 on:
   push:
-    branches: [ "main/ChristopheMpagaDSTI/books_rating_project_python_main" ]
+    branches: [ "main/books_rating_project_python_main" ]
   pull_request:
-    branches: [ "main/ChristopheMpagaDSTI/books_rating_project_python_main" ]
+    branches: [ "main/books_rating_project_python_main" ]
 
 permissions:
   contents: read
