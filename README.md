@@ -1,6 +1,6 @@
 # books_rating_project. 
 Christophe : my proposal   
-joe:  did something\n
+joe:  did something  
 This repository is about books ratings.  A machine learning project.  
 Step 1 : Problem understanding   
         - hypothesis generation.  
