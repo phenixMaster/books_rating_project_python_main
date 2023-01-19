@@ -1,4 +1,7 @@
 # books_rating_project. 
+add new features
+add new datatsets
+mmodels validation  
 Christophe : my proposal   
 joe:  did something  
 This repository is about books ratings.  A machine learning project.  
