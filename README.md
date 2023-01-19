@@ -1,5 +1,5 @@
 # books_rating_project.
-remloves all commit tests 
+removes all commit tests 
 add new features. 
 add new datatsets. 
 mmodels validation    
