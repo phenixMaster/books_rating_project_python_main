@@ -1,5 +1,5 @@
 # books_rating_project. 
-Christophe : my proposal 
+Christophe : my proposal   
 joe:  did something\n
 This repository is about books ratings.  A machine learning project.  
 Step 1 : Problem understanding   
