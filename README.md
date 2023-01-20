@@ -1,6 +1,11 @@
-# books_rating_project. 
-Christophe : my proposal 
+# books_rating_project.
+removes all commit tests  
+add new features.  
+add new datatsets.  
+models validation  
 
+Christophe : my proposal   
+joe:  did something  
 This repository is about books ratings.  A machine learning project.  
 Step 1 : Problem understanding   
         - hypothesis generation.  
@@ -14,5 +19,5 @@ Step 6 : models evaluation and selection
 Step 7 : model tuning   
 Step 8 : model Performance.    
         - hypothesis confirmation.   
-Step 9 : Summary. 
+Step 9 : Summary.  
 Step 10 : Discussion 
