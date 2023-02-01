@@ -1,9 +1,14 @@
+<<<<<<< Updated upstream
 # books_rating_project.
 removes all commit tests  
 add new features.  
 add new datatsets.  
 models validation  
 
+=======
+# books_rating_project. 
+... test
+>>>>>>> Stashed changes
 Christophe : my proposal   
 joe:  did something  
 This repository is about books ratings.  A machine learning project.  
