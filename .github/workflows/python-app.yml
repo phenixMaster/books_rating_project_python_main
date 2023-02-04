@@ -1,13 +1,12 @@
 # This workflow will install Python dependencies, run tests and lint with a single version of Python
 # For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python
 
-name: Push or Pull warning 
+name: Push warning 
 
 on:
   push:
     branches: [ "main/books_rating_project_python_main" ]
-  pull_request:
-    branches: [ "main/books_rating_project_python_main" ]
+ 
 
 permissions:
   contents: read
