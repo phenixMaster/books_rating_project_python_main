@@ -4,7 +4,7 @@ name: CI Pull warning
 
 # Controls when the workflow will run
 on:
-  # Triggers the workflow on  pull request events but only for the "main/" branch
+  # Triggers the workflow on  pull request events but only for the "main/books_rating_project_python_main" branch
   pull_request:
     branches: [ "main/books_rating_project_python_main" ]
 
