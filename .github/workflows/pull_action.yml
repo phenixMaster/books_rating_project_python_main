@@ -6,7 +6,9 @@ name: CI Pull warning
 on:
   # Triggers the workflow on  pull request events but only for the "main/books_rating_project_python_main" branch
   pull_request:
-    branches: [ "main/books_rating_project_python_main" ]
+    branches: 
+      - "main/" 
+      - "main/books_rating_project_python_main" 
 
   # Allows you to run this workflow manually from the Actions tab
   #workflow_dispatch:
