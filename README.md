@@ -1,9 +1,12 @@
-# Machine Learning Lab - Book Rating
-This is a python machine learning project from DSTI A22 cohort.
+---
+Machine Learning Lab - Book Rating
+---
 
 
+## Description 
+This is an academic project from python ML class at Data ScienceTech Institute (DSTI) in Paris. We have provided with historical data about books ratings via a csv file (books csv) and instructed to build a ML model able to predict any given book rating from this dataset. 
 
-## content
+## project plan 
 
 - EXECUTIVE SUMMARY
 - INTRODUCTION
@@ -17,34 +20,32 @@ This is a python machine learning project from DSTI A22 cohort.
 
 ## EXECUTIVE SUMMARY
 
-
-
-
-
-
-
-
-
-
-
-======
-
 # books_rating_project. 
 
+INTRODUCTION  
+
+METHOD  
 Step 1 : Problem understanding   
-
 - hypothesis generation.  
+- data inspection.   
+
 Step 2 : Data wrangling    
+
 Step 3 : EDA   
- - data inspection   
+data visualization.   
 
-data visualization. 
 Step 4 : Features engineering   
-Step 5 : Modelling and Machine learning   
-Step 6 : models evaluation and selection   
-Step 7 : model tuning   
-Step 8 : model Performance.    
 
-hypothesis confirmation.   
-Step 9 : Summary.  
-Step 10 : Discussion 
+Step 5 : Modelling and Machine learning     
+- models evaluation and selection   
+- model tuning. 
+- model Performance.    
+- hypothesis confirmation.   
+
+RESULTS   
+
+DISCUSSION  
+
+CONCLUSION   
+
+REFERENCE     
