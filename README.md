@@ -32,7 +32,7 @@ Step 1 : Problem understanding
 Step 2 : Data wrangling    
 
 Step 3 : EDA   
-data visualization.   
+Numerical summaries and data visualization.   
 
 Step 4 : Features engineering   
 
